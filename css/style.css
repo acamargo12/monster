@@ -1,0 +1,16 @@
+:root {
+    --primario: #003f5c;
+    --secundario: #ec9b3b;
+   }
+   
+   .titulo span{
+       color:#f7be16;
+   }
+   .nav-link{
+       color: #1b2014;
+   }
+   
+   .navbar{
+       border-top: 1px solid #e1e1e1;
+       border-bottom: 1px solid #e1e1e1;
+    }
